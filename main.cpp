@@ -4,5 +4,6 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, Ocean!" << std::endl;
 
+    std::cout << "Hello, Trees!" << std::endl;
     return 0;
 }
